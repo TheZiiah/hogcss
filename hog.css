@@ -401,10 +401,7 @@ top: 0;
 	 padding-left: 150px;
 	 }
 #sce_smilies_body {
-	
-/*background:none;
-	*/
-background-color: #fbfbfb;
+	background-color: #fbfbfb;
 	background-image: none;
 	min-width: 1px !important;
 	}
