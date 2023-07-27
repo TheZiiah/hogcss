@@ -2798,6 +2798,10 @@ fieldset.frm-set.rpg dd table td {
     visibility: hidden
 }
 
+.clearfix:a {
+	color:#ffffff;
+}
+
 *+ html .clearfix {
     min-height: 1px
 }
