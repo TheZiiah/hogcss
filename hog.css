@@ -61,7 +61,7 @@ body {
 }
 
 .pun a:link {
-    color: #00569c
+    color: #ffffff;
 }
 
 .pun a:visited {
@@ -2796,10 +2796,6 @@ fieldset.frm-set.rpg dd table td {
     height: 0;
     clear: both;
     visibility: hidden
-}
-
-.clearfix:a {
-	color:#ffffff;
 }
 
 *+ html .clearfix {
