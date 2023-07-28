@@ -528,6 +528,9 @@ text-decoration: none;
 	background-color: #f4f4f4;
 	margin: 0 0 1em 0;
 	}
+#pun-visit a {
+	color: #111111;
+}
 #pun-visit ul,.main-box ul {
 	float: right;
 	width: 70%;
