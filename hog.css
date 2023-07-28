@@ -488,9 +488,9 @@ p#pun-desc {
 
 /* Main navigation (Menu, information and crumbs)-------------------------------------------------------------*/
 #pun-head #pun-navlinks {
-	padding: 0.5em 1.1em 0.6em 1.1em;
-	background-color: #18405e;
-	border-color: #dddddd;
+	padding: 5px;
+	background-color: #2b2b28;
+	border-color: #4a4a48;
 	}
 #pun-navlinks ul {
 	list-style: none;
@@ -504,16 +504,12 @@ p#pun-desc {
 	 margin: 0 0.8em 0 0;
 	 }
 #pun-navlinks a, #pun-navlinks a:visited {
-	
-/*color: #fff;
-	*/
+color: #ebebe3;
 text-decoration: none;
 	}
 #pun-navlinks a:hover, #pun-navlinks a:active, #pun-navlinks a:focus {
 	text-decoration: underline;
-	
-/*color: #fff;
-	*/
+	color: #c19898;
 }
 #pun-visit,.main-box {
 	border-color: #dddddd;
