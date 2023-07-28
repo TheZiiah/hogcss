@@ -560,7 +560,10 @@ text-decoration: none;
 .pun-crumbs a {
 	 text-decoration: none;
 	 }
-
+	 
+a[href="/calendar"],a[href="/Portal"],a[href="/images"],a[href="/faq"]  {
+    display: none;
+}
 /* **************************************************************************Most stable Standards-compliant 3-column layout by Ryan Brillhttp://www.alistapart.com/articles/negativemargins
 /************************************************************************** */
 #content-container div#container {
@@ -1195,7 +1198,7 @@ div.nav-head {
 #tabs ul li a {
 	float: left;
 	padding: 0 1em;
-	background-color: #f4f9fd;
+	background-color: #001111;
 	border: 1px solid #dddddd;
 	font-size:1.1em;
 	font-weight:normal;
