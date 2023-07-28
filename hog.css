@@ -492,6 +492,7 @@ p#pun-desc {
 	background-color: #2b2b28;
 	border-color: #4a4a48;
 	font-family: 'Roboto Condensed', sans-serif;
+	text-transform: uppercase;
 	}
 #pun-navlinks ul {
 	list-style: none;
