@@ -432,16 +432,16 @@ min-width: 768px;
 	border: none;
 	}
 .pun a:link {
-	color: #00569c;
+	color: #fff;
 	}
 .pun a:visited {
-	color: #666666;
+	color: #fff;
 	 }
 .pun a:hover {
-	color: #b42000;
+	text-decoration: underline;
 	 }
 .pun a:active {
-	color: #b42000;
+	text-decoration: underline;
 	 }
 .pun a:focus {
 	color: #00569c;
