@@ -814,8 +814,9 @@ h2.topic-title {
 	display: inline;
 	text-transform: none;
 	border: none;
-	font-size: 10px;
+	font-size: 11px !important;
 	font-weight: bold !important;
+	padding-left: 10px;
 	}
 
 /* Stats-------------------------------------------------------------*/
