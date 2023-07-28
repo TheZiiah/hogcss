@@ -480,6 +480,7 @@ min-width: 768px;
 	font-weight: 600;
 	text-transform: uppercase;
 	font-family: 'Edu SA Beginner', cursive;
+	display: none;
 	}
 #pun-title h1 {
 	font-size: inherit;
