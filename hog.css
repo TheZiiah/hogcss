@@ -454,9 +454,10 @@ min-width: 768px;
 #pun-intro {
 	margin: 0;
 	padding: 1.5em 1em 1em 1em;
-	border-bottom: 1px solid #296fa5;
-	background-color: #296fa5;
-	background-image: url('https://2img.net/i/fa/empty.gif');
+	border-left: 1px solid #2b2b28;
+	border-right: 1px solid #2b2b28;
+	border-top: 1px solid #2b2b28;
+	background-color: #ebebe3;
 	text-align: left;
 	background-repeat: repeat-x;
 	}
@@ -472,9 +473,13 @@ min-width: 768px;
 #pun-title {
 	padding-left: 5px;
 	white-space: nowrap;
-	color: #ffffff;
+	color: #2b2b28;
 	font-family: Verdana,Arial,Helvetica,sans-serif;
-	font-size: 20px;
+	font-size: 38px;
+	text-align:right;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-family: 'Edu SA Beginner', cursive;
 	}
 #pun-title h1 {
 	font-size: inherit;
