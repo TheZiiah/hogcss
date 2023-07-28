@@ -2100,6 +2100,10 @@ table.forumline {
 	background-color: #f4f9fd;
 	border: 1px solid #dddddd;
 	}
+/* Forumtitle     -------------------------------------------------------------*/	
+.foumtitle {
+	color: #111111;
+}
 
 /* Text editor (quick reply)-------------------------------------------------------------*/
 .pun .main-head a.exthelp,.pun .main-head a.exthelp:link,.pun .main-head a.exthelp:visited {
@@ -3418,7 +3422,8 @@ dl.file dt img {
 .btn-floating-left, #sub-to-pushs {
 	cursor:pointer;
 	text-decoration:underline;
-	color: #00569c;
+	color: #111111;
+	display: none;
 	}
 .resp-sharing-button__icon {
 	display: inline-block}
@@ -6631,6 +6636,3 @@ body>.award_tooltiptext.profile::after,body>.award_tooltiptext.right::after,.pos
 #footer_widgets .widget {
 	margin-bottom: 10px;
 	}
-#addthis-toolbar {
-	dsiplay: none !important;
-}
