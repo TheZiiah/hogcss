@@ -1865,6 +1865,9 @@ strong.pagination {
 .pun .posthead h2 strong {
 	float: right;
 	}
+.posthead a {
+	color: #111111 !important;	
+}
 .pun .postbody {
 	width: 100%;
 	}
@@ -6628,3 +6631,6 @@ body>.award_tooltiptext.profile::after,body>.award_tooltiptext.right::after,.pos
 #footer_widgets .widget {
 	margin-bottom: 10px;
 	}
+#addthis-toolbar {
+	dsiplay: none !important;
+}
