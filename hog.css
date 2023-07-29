@@ -873,6 +873,7 @@ ul.pun-legend,ul#pun-legend{
 	list-style-type: none;
 	text-align: center;
 	margin-bottom: 20px;
+	color: #fefefe;
 	}
 ul.pun-legend li {
 	display: inline;
@@ -1794,7 +1795,9 @@ table.search td,table.search .tcl {
 .pun .paged .posting {
 	float: right;
 	font-weight: bold;
-	font-size: 1.2em}
+	font-size: 1.2em;
+	margin: 0 auto;
+}
 .pun .paging, #sort-box {
 	float: left;
 	font-weight: bold;
@@ -1839,6 +1842,7 @@ strong.pagination {
 .paged-head h1{
 	padding : 15px 0 15px 0;
 	word-break: break-word;
+	text-transform: uppercase;
 	}
 .pun .topic {
 	border: 1px solid #dddddd;
@@ -1864,7 +1868,7 @@ strong.pagination {
 .pun .posthead {
 	padding: 0.5em 1.3em 0.5em 1em;
 	background: #f4f4f4;
-	border-bottom: 1px dashed #ccc;
+	border-bottom: 1px solid #010101;
 	}
 .pun .posthead h2 strong {
 	float: right;
