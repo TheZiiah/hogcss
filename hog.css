@@ -2850,6 +2850,9 @@ display: none;
 #pun-foot {
 	clear: both;
 	}
+#pun-food a{
+	color: #202020;
+}
 #pun-foot h3 {
 	 margin-top: 20px;
 	 }
