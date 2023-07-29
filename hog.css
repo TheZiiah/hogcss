@@ -431,7 +431,7 @@ min-width: 768px;
 .pun img, .pun fieldset {
 	border: none;
 	}
-.pun a:link {
+/*.pun a:link {
 	color: #fff;
 	}
 .pun a:visited {
@@ -445,7 +445,7 @@ min-width: 768px;
 	 }
 .pun a:focus {
 	color: #00569c;
-	 }
+	 }*/
 .pun h2, .pun h3, .pun th, .pun input, .pun select {
 	font: normal 1em Verdana, Arial, sans-serif;
 	}
@@ -559,6 +559,7 @@ text-decoration: none;
 	}
 .pun-crumbs a {
 	 text-decoration: none;
+	 color: #fff;
 	 }
 	 
 a[href="/calendar"],a[href="/Portal"],a[href="/images"],a[href="/faq"]  {
