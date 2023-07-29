@@ -1847,7 +1847,7 @@ strong.pagination {
 .pun .topic {
 	border: 1px solid #dddddd;
 	border-style: none solid;
-	background: #f4f9fd;
+	background: #e1e1e1;
 	}
 .pun .post {
 	border-style: solid none;
@@ -1961,10 +1961,10 @@ strong.pagination {
 	font-size: 1.2em;
 	font-weight: bold;
 	display: block;
-	position: absolute;
 	top: 0;
 	text-decoration: none;
 	color: #00569c;
+	margin-bottom: 0px;
 	}
 * html .pun .user-ident .username {
 	padding: 0 0 0.25em;
@@ -2041,12 +2041,12 @@ div.post-options img{
 
 /* Plus menu-------------------------------------------------------------*/
 .overview {
-	background-color: #f4f9fd;
+	background-color: #e1e1e1;
 	border: 1px solid #dddddd;
 	font-family: Verdana,Arial,Helvetica,sans-serif;
 	}
 .title-overview {
-	background-color: #f4f9fd;
+	background-color: #e1e1e1;
 	padding: 5px 5px 0 0;
 	}
 .overview h1 {
@@ -2083,7 +2083,7 @@ p.center-overview a {
 	}
 .dashed {
 	color: #f4f9fd;
-	background-color: #f4f9fd;
+	background-color: #e1e1e1;
 	border: none;
 	}
 #search_menu .forumline {
@@ -3423,6 +3423,7 @@ dl.file dt img {
 	}
 #push-bell {
 	cursor: pointer;
+	display: none;
 	}
 #push-bell::after {
 	content: "ðŸ””";
