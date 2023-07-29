@@ -507,7 +507,7 @@ p#pun-desc {
 	}
 #pun-navlinks li {
 	display: inline;
-	font-size: 1.15em;
+	font-size: 14px;
 	}
 #pun-navlinks li a {
 	 margin: 0 0.8em 0 0;
@@ -823,7 +823,12 @@ td.avatar-mini img {
 	font-weight: bold;
 	}
 h2.topic-title {
-	display: inline;
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Rokkitt', serif;
+	font-weight: 300;
+	color: #2d2d2d;
+	text-transform: uppercase;
 	}
 .hierarchy {
 	display: inline;
@@ -1869,6 +1874,7 @@ strong.pagination {
 	padding: 0.5em 1.3em 0.5em 1em;
 	background: #f4f4f4;
 	border-bottom: 1px solid #010101;
+	font-size: 13px;
 	}
 .pun .posthead h2 strong {
 	float: right;
@@ -1983,8 +1989,11 @@ strong.pagination {
 	max-width: 100%;
 	}
 .pun .user .user-info {
-	color: #666;
-	line-height: 1.8em;
+	color: #444444;
+	line-height: 20px;
+    text-transform: capitalize;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
 	}
 .user-basic-info {
     text-align: center;
@@ -4772,7 +4781,7 @@ table.portal {
 	table-layout: fixed;
 	}
 .pun .post .user {
-	margin-left: -210px;
+	margin-left: -243px;
 	 
 /* -16em;
 	 */
