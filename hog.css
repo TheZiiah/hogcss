@@ -21,8 +21,8 @@ body {
 	background-image: url('https://2img.net/i/fa/empty.gif');
 	background-attachment: scroll;
 	color: #333333;
-	font-size: 12px;
-	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 15px;
+	font-family:  Rokkitt,sans-serif;
 	}
 #sceditor_smilies{
 	background-color: #f4f4f4;
@@ -1956,6 +1956,9 @@ strong.pagination {
 	padding: 0 0 0.7em 0;
 	font-size: 12px;
 	}
+.user-ident img{
+	border-radius: 28px;
+}
 .pun .user-ident .username {
 	font-size: 1.2em;
 	font-weight: bold;
@@ -1983,6 +1986,9 @@ strong.pagination {
 	color: #666;
 	line-height: 1.8em;
 	}
+.user-basic-info {
+    text-align: center;
+}
 .postfoot {
 	clear: both;
 	margin-left: -17em;
