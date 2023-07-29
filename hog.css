@@ -426,7 +426,7 @@ min-width: 768px;
 	line-height: 130%;
 	}
 .pun div, .pun td, .sig-line {
-	border-color: #dddddd;
+	border-color: #010101;
 	}
 .pun img, .pun fieldset {
 	border: none;
@@ -1862,7 +1862,7 @@ strong.pagination {
 	}
 .pun .postmain {
 	background-color: #fbfbfb;
-	border-left: 1px solid #dddddd;
+	border-left: 1px solid #010101;
 	margin-left: 17em;
 	}
 .pun .posthead {
@@ -1937,7 +1937,6 @@ strong.pagination {
 
 /* User information general layout-------------------------------------------------------------*/
 .pun .user {
-	padding-top: 1.6em;
 	overflow: hidden;
 	width: 15em;
 	white-space: normal;
@@ -1987,7 +1986,7 @@ strong.pagination {
 .postfoot {
 	clear: both;
 	margin-left: -17em;
-	border-top: 1px dashed #ccc;
+	border-top: 1px solid #010101;
 	padding: 0.5em 1em;
 	text-align: right;
 	}
@@ -4764,7 +4763,7 @@ table.portal {
 	table-layout: fixed;
 	}
 .pun .post .user {
-	margin-left: -17em;
+	margin-left: -210px;
 	 
 /* -16em;
 	 */
@@ -4776,7 +4775,7 @@ table.portal {
 	 */
 }
 .pun .user {
-	width: 16em;
+	width: 200px;
 	 
 /* 15em;
 	 */
